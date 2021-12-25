@@ -5,7 +5,7 @@
 
 .page-mobile {
     min-height: 100%;
-    background: url(https://thumbor.subcdn.com/imageView2/minio-activity/vieka/bg.ca261ebb.jpg) no-repeat;
+    background: url(background.jpg) no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: 50%;
@@ -115,7 +115,7 @@
 
 .page-pc {
     min-height: 100%;
-    background: url(https://thumbor.subcdn.com/imageView2/minio-activity/vieka/bg.ca261ebb.jpg) no-repeat;
+    background: url(background.jpg) no-repeat;
     background-position: 50%;
     -webkit-background-size: cover;
     background-size: cover;
@@ -172,7 +172,8 @@
 
 .page-pc .main .logo {
     width: 1.33rem;
-    margin-top: 1.72rem
+    margin-top: 1.72rem;
+    opacity: 0
 }
 
 .page-pc .main .desc {
