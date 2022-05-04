@@ -5,7 +5,7 @@
 
 .page-mobile {
     min-height: 100%;
-    background: url(background.jpg) no-repeat;
+    background: url(background.png) no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: 50%;
@@ -115,7 +115,7 @@
 
 .page-pc {
     min-height: 100%;
-    background: url(background.jpg) no-repeat;
+    background: url(background.png) no-repeat;
     background-position: 50%;
     -webkit-background-size: cover;
     background-size: cover;
@@ -177,11 +177,11 @@
 }
 
 .page-pc .main .desc {
-    max-width: 50%;
+    max-width: 60%;
     margin-top: .36rem;
     font-family: HelveticaNeue-LightItalic;
     font-size: .36rem;
-    color: #fff;
+    color: #000000;
     letter-spacing: .0373rem;
     text-align: center
 }
